@@ -1,11 +1,7 @@
-# Encontrarás mis diferentes proyectos efectuados en ciencia de datos
-Empecé mi carrera en 2023 y voy a subir diferentes proyectos, programados en R y en Python.
+# ENG - You will find my diferentes proyects developed during mi degree in Data science & AI
 
-Me gusta todo lo que tiene que ver cómo el Machine Learning.
+# ES - Encontrarás mis diferentes proyectos efectuados durante mi carrera en Ciencia de datos e IA
+
+# FR - Tu trouveras mes différents projets efectués durant ma formación en Data science & IA
 
 
-Espero que el contenido de esta carpeta te sea interesante y te dejo mi contacto:
-
-Mail: aliocha.terzer@gmail.com
-
-Linkedin: (www.linkedin.com/in/aliocha-terzer)
